@@ -1,6 +1,6 @@
 # HCDSB Dashboard
 
-A comprehensive dashboard for tracking and visualizing key metrics and data for the Halton Catholic District School Board.
+A comprehensive dashboard for tracking and visualizing key metrics and data for HCDSB
 
 ## Features
 
