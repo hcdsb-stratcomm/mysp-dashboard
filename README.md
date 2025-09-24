@@ -17,4 +17,16 @@ A comprehensive dashboard for tracking and visualizing key metrics and data for 
 
 View the live demo: [Dashboard Demo Link]
 
-## Structure
+## Usage
+
+1. Open `index.html` in a web browser
+2. Navigate between dashboard sections using the bottom menu
+
+## Notes
+
+- This is a demonstration dashboard with sample data
+- Dashboard is optimized for desktop and mobile viewing
+
+## License
+
+Educational use only - Created for demonstration purposes
