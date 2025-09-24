@@ -9,7 +9,6 @@ A comprehensive dashboard for tracking and visualizing key metrics and data for 
 ## Technologies Used
 
 - HTML, CSS3, JavaScript
-- Chart.js for data visualization
 - Responsive design
 - Ajax, Countup, Popper, Tippy, MicroModal
 
@@ -19,7 +18,7 @@ View the live demo: [Dashboard Demo Link]
 
 ## Usage
 
-1. Open `index.html` in a web browser
+1. Open `achieving.html` in a web browser
 2. Navigate between dashboard sections using the bottom menu
 
 ## Notes
